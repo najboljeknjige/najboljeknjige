@@ -1,0 +1,72 @@
+[
+    {
+        "naslov": "Harry Potter i Kamen mudraca",
+        "autor": "J.K. Rowling",
+        "zemlja": "UK",
+        "prvoizdanje": 1997,
+        "ocjena": 4.9
+    },
+    {
+        "naslov": "Ubiti pticu rugalicu",
+        "autor": "Harper Lee",
+        "zemlja": "SAD",
+        "prvoizdanje": 1960,
+        "ocjena": 4.9
+    },
+    {
+        "naslov": "Gospodar prstenova",
+        "autor": "J.R.R. Tolkien",
+        "zemlja": "UK",
+        "prvoizdanje": 1954,
+        "ocjena": 4.8
+    },
+    {
+        "naslov": "Veliki Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "zemlja": "SAD",
+        "prvoizdanje": 1925,
+        "ocjena": 4.7
+    },
+    {
+        "naslov": "Rat i mir",
+        "autor": "Lev Tolstoj",
+        "zemlja": "Rusija",
+        "prvoizdanje": 1869,
+        "ocjena": 4.7
+    },
+    {
+        "naslov": "Lovac u žitu",
+        "autor": "J.D. Salinger",
+        "zemlja": "SAD",
+        "prvoizdanje": 1951,
+        "ocjena": 4.6
+    },
+    {
+        "naslov": "1984",
+        "autor": "George Orwell",
+        "zemlja": "UK",
+        "prvoizdanje": 1949,
+        "ocjena": 4.5
+    },
+    {
+        "naslov": "Hobit",
+        "autor": "J.R.R. Tolkien",
+        "zemlja": "UK",
+        "prvoizdanje": 1997,
+        "ocjena": 4.5
+    },
+    {
+        "naslov": "Don Quixote",
+        "autor": "Miguel Cervantes",
+        "zemlja": "Španjolska",
+        "prvoizdanje": 1615,
+        "ocjena": 4.5
+    },
+    {
+        "naslov": "Hamlet",
+        "autor": "William Shakespeare",
+        "zemlja": "UK",
+        "prvoizdanje": 1997,
+        "ocjena": 0.1
+    }
+]
